@@ -35,6 +35,8 @@ cd Text_Decryption_Using_HMM
 pip install -r requirements.txt
 ```
 
+4. Run the "main_HMM.ipynb" file:
+
 ## How It Works
 
 1. **Initialization**: The HMM is initialized with transition and emission probabilities based on English language statistics.
